@@ -13,7 +13,7 @@ for ( c=2 ; c < n  ; c++ )
 {
 if ( n%c == 0 )
 {
-printf("No");
+printf("NO");
 break;
 }
 
@@ -21,13 +21,13 @@ break;
 
 if ( c == n ){
 
-printf("Yes");
+printf("YES");
 
 
 
 }
 if(n<2)
-printf("No");
+printf("NO");
 return 0;
 }
 
